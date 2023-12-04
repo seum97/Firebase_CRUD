@@ -1,6 +1,6 @@
 # firestore_crud
 
-A new Flutter project.
+This Flutter project demonstrates the basic CRUD operations using cloud firestore.
 
 ## Getting Started
 
